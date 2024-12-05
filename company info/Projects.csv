@@ -1,0 +1,131 @@
+﻿Project ID,Customer ID,Project Name,Project Status,Start Date,End Date,Project Manager,Budget,Actual Cost,Notes
+P001,C001,Greentown Outdoor Advertising Design,Completed,2024/01/11,2011/02/27,Alex Wang,36518,45272,On schedule
+P002,C002,Ronshine Billboard Installation,Planning,2007/04/26,2024/08/15,Alex Wang,44480,92898,Over budget
+P003,C003,Poly Exhibition Booth Setup,Planning,2016/01/23,2009/05/28,Jane Li,58648,34616,On schedule
+P004,C004,Jiangshan Branding Design,Terminated,2010/10/17,2022/02/27,Michael Zhang,94620,77812,On schedule
+P005,C005,China Resources Event Promotion Planning,Canceled,2015/02/18,2016/02/12,Alex Wang,37833,56095,Client satisfaction
+P006,C006,United Property Signage Design,Terminated,2014/08/10,2006/02/25,Jane Li,87722,51314,Client satisfaction
+P007,C007,Poly Advertising Campaign,In Progress,2017/09/04,2018/05/12,Alex Wang,42103,87151,Faced challenges
+P008,C008,Yinyi Advertising Board Maintenance,Terminated,2020/12/01,2006/12/21,Jane Li,52275,78865,Client satisfaction
+P009,C009,Intime Seasonal Promotion Planning,In Progress,2022/07/23,2016/07/24,Emma Chen,88970,42461,Client satisfaction
+P010,C010,C&D Neighborhood Event Organization,Completed,2011/03/04,2014/06/06,David Liu,34855,54961,Faced challenges
+P011,C011,Greentown Billboard Installation,Planning,2017/04/16,2022/06/18,David Liu,58048,51274,Client satisfaction
+P012,C012,Ronshine Seasonal Promotion Planning,Canceled,2010/09/10,2012/01/13,Alex Wang,37919,85482,On schedule
+P013,C013,Poly Neighborhood Event Organization,In Progress,2017/11/21,2023/05/08,Alex Wang,91338,39594,On schedule
+P014,C014,Jiangshan Outdoor Advertising Design,Completed,2020/09/04,2023/08/26,Jane Li,51648,81617,Faced challenges
+P015,C015,China Resources Branding Design,Canceled,2015/04/17,2022/03/28,Alex Wang,57063,82222,Client satisfaction
+P016,C016,United Exhibition Booth Setup,Canceled,2013/09/22,2013/07/18,Michael Zhang,85269,55896,On schedule
+P017,C017,Poly Event Promotion Planning,Planning,2009/04/17,2019/07/16,Michael Zhang,69106,77242,Client satisfaction
+P018,C018,Yinyi Property Signage Design,Terminated,2011/10/08,2020/07/27,Alex Wang,82847,46444,Faced challenges
+P019,C019,Intime Billboard Installation,Completed,2011/11/06,2018/12/04,David Liu,87495,63539,Over budget
+P020,C020,C&D Branding Design,Terminated,2018/09/21,2023/02/09,Michael Zhang,63447,92482,Over budget
+P021,C021,Greentown Exhibition Booth Setup,Terminated,2021/05/20,2010/01/19,David Liu,75902,75539,Client satisfaction
+P022,C022,Ronshine Event Promotion Planning,Terminated,2011/03/20,2008/07/24,Emma Chen,44070,67737,Client satisfaction
+P023,C023,Poly Advertising Board Maintenance,Terminated,2019/01/25,2015/11/08,Alex Wang,62848,53832,Faced challenges
+P024,C024,Jiangshan Neighborhood Event Organization,Terminated,2018/11/23,2024/11/22,Michael Zhang,92687,30902,On schedule
+P025,C025,China Resources Seasonal Promotion Planning,Terminated,2011/05/21,2022/02/24,Jane Li,55938,45348,Faced challenges
+P026,C026,United Billboard Installation,In Progress,2007/08/13,2020/04/19,Alex Wang,47162,67962,Faced challenges
+P027,C027,Poly Branding Design,Terminated,2017/09/13,2024/12/08,Michael Zhang,46439,81500,Faced challenges
+P028,C028,Yinyi Exhibition Booth Setup,Canceled,2013/03/28,2008/03/25,Emma Chen,98392,62237,Over budget
+P029,C029,Intime Event Promotion Planning,Canceled,2007/04/18,2011/07/11,Jane Li,83430,92435,Client satisfaction
+P030,C030,C&D Property Signage Design,Canceled,2008/08/27,2006/08/06,David Liu,80314,38713,Client satisfaction
+P031,C031,Greentown Seasonal Promotion Planning,Canceled,2020/09/12,2009/06/10,Jane Li,82526,35681,Over budget
+P032,C032,Ronshine Branding Design,Completed,2016/03/12,2008/09/04,Jane Li,61030,84378,On schedule
+P033,C033,Poly Billboard Installation,Terminated,2023/11/07,2022/12/12,David Liu,74079,68377,Client satisfaction
+P034,C034,Jiangshan Exhibition Booth Setup,In Progress,2007/12/13,2023/08/08,Jane Li,97977,87550,On schedule
+P035,C035,China Resources Advertising Campaign,Terminated,2019/04/02,2010/06/13,Jane Li,76967,53437,Client satisfaction
+P036,C036,United Neighborhood Event Organization,Planning,2021/07/13,2020/01/11,Jane Li,62697,69023,Faced challenges
+P037,C037,Poly Property Signage Design,Canceled,2009/04/17,2006/11/13,Emma Chen,35950,40312,Client satisfaction
+P038,C038,Yinyi Seasonal Promotion Planning,Terminated,2012/01/13,2011/08/11,David Liu,90790,46402,Over budget
+P039,C039,Intime Advertising Board Maintenance,In Progress,2019/01/13,2007/09/28,Emma Chen,54359,77471,Faced challenges
+P040,C040,C&D Billboard Installation,Canceled,2019/02/24,2012/01/17,Emma Chen,95131,60529,Over budget
+P041,C041,Greentown Branding Design,Terminated,2021/11/09,2008/04/25,David Liu,35667,28172,On schedule
+P042,C042,Ronshine Outdoor Advertising Design,Completed,2016/10/27,2024/03/12,David Liu,30745,38667,Client satisfaction
+P043,C043,Poly Event Promotion Planning,Canceled,2017/03/18,2012/04/19,Emma Chen,31000,51223,Client satisfaction
+P044,C044,Jiangshan Seasonal Promotion Planning,Planning,2006/10/22,2020/02/05,Jane Li,75207,53557,On schedule
+P045,C045,China Resources Neighborhood Event Organization,Terminated,2021/10/03,2015/02/23,Alex Wang,85134,33394,Client satisfaction
+P046,C046,United Branding Design,Terminated,2024/10/20,2024/10/22,Alex Wang,76070,34987,Over budget
+P047,C047,Poly Billboard Installation,In Progress,2023/08/04,2007/06/22,Alex Wang,67418,53249,Faced challenges
+P048,C048,Yinyi Exhibition Booth Setup,In Progress,2022/06/11,2019/06/22,David Liu,96615,43007,Client satisfaction
+P049,C049,Intime Seasonal Promotion Planning,Completed,2012/10/08,2016/04/28,Emma Chen,55112,59417,On schedule
+P050,C050,C&D Advertising Campaign,In Progress,2017/04/06,2013/05/27,Emma Chen,75487,25502,Faced challenges
+P051,C051,Greentown Billboard Installation,In Progress,2016/09/08,2019/06/17,Jane Li,90867,27302,On schedule
+P052,C052,Ronshine Property Signage Design,In Progress,2020/01/09,2007/11/23,Alex Wang,78148,28393,Over budget
+P053,C053,Poly Neighborhood Event Organization,Planning,2019/03/20,2018/05/21,Jane Li,31601,38104,Client satisfaction
+P054,C054,Jiangshan Outdoor Advertising Design,Canceled,2018/12/19,2011/03/26,David Liu,86874,92980,Over budget
+P055,C055,China Resources Event Promotion Planning,Canceled,2009/03/13,2010/09/20,Emma Chen,32706,62978,On schedule
+P056,C056,United Advertising Campaign,Terminated,2022/09/12,2009/04/17,Michael Zhang,40289,45305,On schedule
+P057,C057,Poly Branding Design,Completed,2013/09/13,2007/12/18,Michael Zhang,63075,69919,Over budget
+P058,C058,Yinyi Property Signage Design,Canceled,2011/09/16,2006/04/05,Michael Zhang,87797,69747,Faced challenges
+P059,C059,Intime Event Promotion Planning,Completed,2024/08/02,2015/11/15,Jane Li,61251,54136,On schedule
+P060,C060,C&D Billboard Installation,Planning,2017/12/20,2022/05/07,Jane Li,93253,72475,Over budget
+P061,C061,Greentown Property Signage Design,Planning,2010/09/10,2009/09/27,Alex Wang,94988,25732,On schedule
+P062,C062,Ronshine Event Promotion Planning,Canceled,2016/07/03,2012/11/26,Alex Wang,62649,37222,Client satisfaction
+P063,C063,Poly Seasonal Promotion Planning,In Progress,2015/01/27,2014/04/15,Emma Chen,93144,25300,Over budget
+P064,C064,Jiangshan Billboard Installation,Completed,2015/09/04,2021/11/13,Emma Chen,53984,48029,Faced challenges
+P065,C065,China Resources Advertising Campaign,In Progress,2019/03/28,2016/07/03,David Liu,73998,29151,Over budget
+P066,C066,United Exhibition Booth Setup,Completed,2017/07/12,2006/05/11,Alex Wang,65926,55642,Faced challenges
+P067,C067,Poly Neighborhood Event Organization,In Progress,2011/04/19,2014/06/06,David Liu,44847,45587,Faced challenges
+P068,C068,Yinyi Branding Design,Planning,2016/06/20,2013/06/05,Alex Wang,55666,71961,Over budget
+P069,C069,Intime Outdoor Advertising Design,Canceled,2017/01/22,2006/10/18,Alex Wang,86948,89916,Client satisfaction
+P070,C070,C&D Seasonal Promotion Planning,Completed,2021/11/22,2012/01/21,David Liu,93120,58194,Client satisfaction
+P071,C071,Greentown Advertising Board Maintenance,Terminated,2013/09/03,2020/05/12,David Liu,48746,76117,Client satisfaction
+P072,C072,Ronshine Branding Design,Canceled,2012/12/05,2021/06/26,Alex Wang,81923,33670,Over budget
+P073,C073,Poly Billboard Installation,In Progress,2023/12/02,2024/07/24,Michael Zhang,47374,32682,Client satisfaction
+P074,C074,Jiangshan Seasonal Promotion Planning,Terminated,2022/12/12,2011/02/18,Alex Wang,98496,82372,Client satisfaction
+P075,C075,China Resources Property Signage Design,Completed,2010/02/14,2021/04/12,Michael Zhang,74815,39666,Faced challenges
+P076,C076,United Neighborhood Event Organization,Planning,2010/11/04,2006/09/19,Alex Wang,89797,38965,Faced challenges
+P077,C077,Poly Event Promotion Planning,Terminated,2009/01/08,2024/03/06,Emma Chen,34151,52949,Client satisfaction
+P078,C078,Yinyi Billboard Installation,Planning,2016/04/08,2013/02/01,Jane Li,88109,37895,Over budget
+P079,C079,Intime Branding Design,Completed,2020/06/20,2021/01/17,David Liu,92321,80568,On schedule
+P080,C080,C&D Advertising Campaign,Canceled,2022/04/02,2009/10/11,Emma Chen,40520,91076,On schedule
+P081,C081,Greentown Billboard Installation,Canceled,2006/10/28,2010/05/26,Jane Li,73788,35385,Faced challenges
+P082,C082,Ronshine Outdoor Advertising Design,Canceled,2020/09/15,2020/12/07,Jane Li,87693,47111,On schedule
+P083,C083,Poly Advertising Board Maintenance,In Progress,2008/06/01,2015/12/24,Alex Wang,77181,64593,Client satisfaction
+P084,C084,Jiangshan Neighborhood Event Organization,Terminated,2022/06/22,2015/07/19,Alex Wang,46253,64295,On schedule
+P085,C085,China Resources Event Promotion Planning,Terminated,2006/10/10,2010/05/23,Alex Wang,74369,68400,Over budget
+P086,C086,United Seasonal Promotion Planning,Completed,2024/03/11,2014/08/28,David Liu,70280,39519,Over budget
+P087,C087,Poly Property Signage Design,Terminated,2006/01/07,2006/02/04,Emma Chen,91321,38771,On schedule
+P088,C088,Yinyi Exhibition Booth Setup,Completed,2017/07/19,2015/02/16,David Liu,44540,33901,On schedule
+P089,C089,Intime Seasonal Promotion Planning,Completed,2016/07/09,2020/08/23,Alex Wang,88602,77804,Over budget
+P090,C090,C&D Neighborhood Event Organization,Terminated,2020/02/15,2020/04/03,David Liu,82619,75137,Client satisfaction
+P091,C091,Greentown Outdoor Advertising Design,Terminated,2021/06/19,2023/03/13,Emma Chen,47380,84940,On schedule
+P092,C092,Ronshine Seasonal Promotion Planning,In Progress,2013/07/08,2023/06/09,Michael Zhang,60104,39801,Client satisfaction
+P093,C093,Poly Neighborhood Event Organization,Completed,2018/05/23,2021/08/19,Emma Chen,65654,42775,Over budget
+P094,C094,Jiangshan Property Signage Design,In Progress,2017/08/11,2022/06/23,Michael Zhang,70570,87583,On schedule
+P095,C095,China Resources Branding Design,Terminated,2006/05/25,2013/06/03,David Liu,40794,48797,Over budget
+P096,C096,United Billboard Installation,Terminated,2010/09/19,2023/04/18,Alex Wang,97102,83925,On schedule
+P097,C097,Poly Seasonal Promotion Planning,Canceled,2007/12/05,2015/05/12,Emma Chen,60787,71541,Over budget
+P098,C098,Yinyi Outdoor Advertising Design,Terminated,2019/10/22,2011/07/14,David Liu,72903,85319,Faced challenges
+P099,C099,Intime Branding Design,Completed,2010/02/17,2020/04/22,David Liu,59210,85368,Faced challenges
+P100,C100,C&D Advertising Campaign,Planning,2015/11/06,2016/03/27,Michael Zhang,47349,56503,Client satisfaction
+P101,C101,Greentown Seasonal Promotion Planning,Canceled,2020/11/07,2015/06/28,David Liu,96106,31243,Over budget
+P102,C102,Ronshine Billboard Installation,Completed,2012/11/14,2006/11/01,Alex Wang,52489,82841,On schedule
+P103,C103,Poly Advertising Board Maintenance,Canceled,2009/02/06,2018/04/22,Michael Zhang,59780,54979,Faced challenges
+P104,C104,Jiangshan Event Promotion Planning,Planning,2024/10/07,2019/04/03,Michael Zhang,47552,86766,Over budget
+P105,C105,China Resources Seasonal Promotion Planning,Canceled,2010/02/12,2024/12/13,Michael Zhang,55434,45325,Faced challenges
+P106,C106,United Neighborhood Event Organization,Canceled,2019/11/18,2012/02/28,Alex Wang,58141,78827,On schedule
+P107,C107,Poly Branding Design,In Progress,2023/05/27,2018/11/26,Michael Zhang,65850,67894,Client satisfaction
+P108,C108,Yinyi Billboard Installation,Canceled,2007/03/12,2011/05/22,David Liu,89356,75987,Over budget
+P109,C109,Intime Event Promotion Planning,Completed,2018/02/24,2012/06/15,Jane Li,96542,28709,Faced challenges
+P110,C110,C&D Billboard Installation,Terminated,2010/03/27,2023/07/04,Emma Chen,62674,28682,Over budget
+P111,C111,Greentown Branding Design,Planning,2006/02/06,2017/02/02,David Liu,48633,37386,Client satisfaction
+P112,C112,Ronshine Property Signage Design,Completed,2010/05/04,2006/12/13,Emma Chen,83341,58562,Over budget
+P113,C113,Poly Exhibition Booth Setup,Canceled,2009/08/08,2022/09/21,Michael Zhang,37325,46103,Client satisfaction
+P114,C114,Jiangshan Branding Design,Completed,2015/02/03,2015/04/18,David Liu,90555,76437,Client satisfaction
+P115,C115,China Resources Outdoor Advertising Design,Planning,2024/04/26,2017/05/02,Michael Zhang,58122,84470,Client satisfaction
+P116,C116,United Seasonal Promotion Planning,Planning,2007/10/23,2011/04/28,Emma Chen,53358,69658,Client satisfaction
+P117,C117,Poly Event Promotion Planning,Completed,2023/04/17,2010/02/26,Michael Zhang,80348,36001,Faced challenges
+P118,C118,Yinyi Seasonal Promotion Planning,Canceled,2023/01/24,2013/01/09,Emma Chen,82228,51556,On schedule
+P119,C119,Intime Advertising Campaign,Terminated,2015/10/15,2019/09/28,Jane Li,57639,93712,On schedule
+P120,C120,C&D Outdoor Advertising Design,Terminated,2019/11/12,2013/10/06,Michael Zhang,50348,28001,Over budget
+P121,C121,Greentown Event Promotion Planning,Terminated,2018/03/18,2018/09/01,David Liu,36802,50409,On schedule
+P122,C122,Ronshine Outdoor Advertising Design,Completed,2012/06/16,2019/01/20,Alex Wang,83107,87094,On schedule
+P123,C123,Poly Branding Design,In Progress,2023/11/15,2015/10/22,Alex Wang,42879,65579,Faced challenges
+P124,C124,Jiangshan Billboard Installation,Completed,2006/04/24,2009/04/19,Jane Li,46503,57119,Over budget
+P125,C125,China Resources Advertising Campaign,In Progress,2024/03/10,2009/02/24,Alex Wang,94492,38938,Over budget
+P126,C126,United Neighborhood Event Organization,Canceled,2011/06/26,2013/09/19,Jane Li,85000,84570,On schedule
+P127,C127,Poly Property Signage Design,Terminated,2022/03/09,2006/01/27,David Liu,35338,32098,On schedule
+P128,C128,Yinyi Exhibition Booth Setup,Completed,2024/10/15,2020/02/06,Emma Chen,46597,48746,Faced challenges
+P129,C129,Intime Seasonal Promotion Planning,Planning,2015/10/12,2019/07/14,Michael Zhang,58860,54146,On schedule
+P130,C130,C&D Advertising Campaign,Terminated,2022/06/03,2023/08/01,Emma Chen,35998,36982,Client satisfaction

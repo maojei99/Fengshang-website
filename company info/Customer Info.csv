@@ -1,0 +1,131 @@
+﻿Customer ID,Company Name,Contact Name,Position,Contact Number,Industry,Cooperation History,Current Status
+C001,Greentown China Holdings Limited,Zhao Min Hua,Project Manager,+86-1381364527,Real Estate Development,New Client,Failed Cooperation
+C002,Ronshine China Holdings Limited,Wang Hua,General Manager,+86-1346421032,Real Estate Development,Cooperated for 3 Years,Active
+C003,"Poly Property Group Co., Ltd.",Huang Xia Hua,Marketing Director,+86-1302581665,Real Estate Development,Cooperated for 2 Years,Potential Opportunity
+C004,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Chen Wei,Project Manager,+86-1391891557,Real Estate Development,Cooperated for 1 Year,Potential Opportunity
+C005,"China Resources Land (Ningbo) Co., Ltd.",Zhou Xia Wei,Project Manager,+86-1359535797,Real Estate Development,Cooperated for 1 Year,Paused
+C006,"Ningbo United Group Co., Ltd.",Zhang Jie,General Manager,+86-1393791272,Real Estate Development,Cooperated for 3 Years,Potential Opportunity
+C007,"Zhejiang Poly Real Estate Co., Ltd.",Liu Ming,General Manager,+86-1301755729,Cultural Media,Cooperated for 2 Years,Failed Cooperation
+C008,"Yinyi Group Co., Ltd.",Huang Lei Hua,General Manager,+86-1328052796,Cultural Media,New Client,Paused
+C009,"Ningbo Intime Investment Co., Ltd.",Liu Jie,Marketing Director,+86-1386046458,Cultural Media,New Client,Paused
+C010,C&D Real Estate Corporation Limited,Zhou Xia Hua,Marketing Director,+86-1350337335,Cultural Media,Cooperated for 3 Years,Active
+C011,Greentown China Holdings Limited,Zhang Wei,General Manager,+86-1336756531,Cultural Media,Cooperated for 3 Years,Active
+C012,Ronshine China Holdings Limited,Wang Wei,Project Manager,+86-1338365201,Real Estate Development,Cooperated for 3 Years,Potential Opportunity
+C013,"Poly Property Group Co., Ltd.",Huang Lei Hua,Project Manager,+86-1384608159,Cultural Media,New Client,Failed Cooperation
+C014,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Huang Min Hua,Project Manager,+86-1351264436,Cultural Media,Cooperated for 2 Years,Paused
+C015,"China Resources Land (Ningbo) Co., Ltd.",Huang Min Hua,General Manager,+86-1325696510,Cultural Media,Cooperated for 2 Years,Failed Cooperation
+C016,"Ningbo United Group Co., Ltd.",Li Jie,Marketing Director,+86-1338101250,Cultural Media,Cooperated for 3 Years,Potential Opportunity
+C017,"Zhejiang Poly Real Estate Co., Ltd.",Wu Xia Hua,Project Manager,+86-1310347491,Real Estate Development,Cooperated for 3 Years,Paused
+C018,"Yinyi Group Co., Ltd.",Huang Lei Wei,General Manager,+86-1349871713,Real Estate Development,Cooperated for 1 Year,Potential Opportunity
+C019,"Ningbo Intime Investment Co., Ltd.",Wu Lei Ting,Project Manager,+86-1383049758,Cultural Media,Cooperated for 2 Years,Active
+C020,C&D Real Estate Corporation Limited,Zhang Wei,Project Manager,+86-1354558192,Real Estate Development,Cooperated for 3 Years,Failed Cooperation
+C021,Greentown China Holdings Limited,Huang Min Ting,General Manager,+86-1302533560,Real Estate Development,New Client,Potential Opportunity
+C022,Ronshine China Holdings Limited,Huang Min Ting,Marketing Director,+86-1387272911,Cultural Media,New Client,Active
+C023,"Poly Property Group Co., Ltd.",Chen Jie,Marketing Director,+86-1359021553,Real Estate Development,Cooperated for 1 Year,Active
+C024,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Wang Jie,General Manager,+86-1391002759,Real Estate Development,Cooperated for 2 Years,Paused
+C025,"China Resources Land (Ningbo) Co., Ltd.",Li Jie,General Manager,+86-1381598016,Cultural Media,Cooperated for 2 Years,Active
+C026,"Ningbo United Group Co., Ltd.",Zhang Jie,General Manager,+86-1347747505,Real Estate Development,Cooperated for 3 Years,Failed Cooperation
+C027,"Zhejiang Poly Real Estate Co., Ltd.",Liu Jie,Project Manager,+86-1385776933,Cultural Media,New Client,Active
+C028,"Yinyi Group Co., Ltd.",Chen Wei,General Manager,+86-1312311197,Cultural Media,Cooperated for 1 Year,Potential Opportunity
+C029,"Ningbo Intime Investment Co., Ltd.",Liu Ming,Marketing Director,+86-1362223524,Real Estate Development,Cooperated for 2 Years,Active
+C030,C&D Real Estate Corporation Limited,Zhang Jie,Project Manager,+86-1365912174,Cultural Media,New Client,Paused
+C031,Greentown China Holdings Limited,Li Ming,Marketing Director,+86-1395589153,Cultural Media,Cooperated for 1 Year,Failed Cooperation
+C032,Ronshine China Holdings Limited,Wang Jie,Project Manager,+86-1343172636,Real Estate Development,Cooperated for 1 Year,Active
+C033,"Poly Property Group Co., Ltd.",Li Wei,Project Manager,+86-1329733907,Cultural Media,Cooperated for 1 Year,Paused
+C034,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Sun Xia Wei,Marketing Director,+86-1366302058,Cultural Media,New Client,Potential Opportunity
+C035,"China Resources Land (Ningbo) Co., Ltd.",Li Wei,General Manager,+86-1341268050,Cultural Media,Cooperated for 3 Years,Failed Cooperation
+C036,"Ningbo United Group Co., Ltd.",Wang Jie,Project Manager,+86-1348262144,Cultural Media,Cooperated for 2 Years,Failed Cooperation
+C037,"Zhejiang Poly Real Estate Co., Ltd.",Huang Min Wei,Marketing Director,+86-1332501509,Real Estate Development,Cooperated for 2 Years,Potential Opportunity
+C038,"Yinyi Group Co., Ltd.",Sun Min Hua,Project Manager,+86-1308742293,Real Estate Development,Cooperated for 2 Years,Paused
+C039,"Ningbo Intime Investment Co., Ltd.",Huang Xia Ting,Project Manager,+86-1381607024,Real Estate Development,New Client,Paused
+C040,C&D Real Estate Corporation Limited,Zhao Xia Wei,Project Manager,+86-1376046563,Cultural Media,Cooperated for 3 Years,Paused
+C041,Greentown China Holdings Limited,Wang Hua,Project Manager,+86-1309214186,Real Estate Development,Cooperated for 2 Years,Active
+C042,Ronshine China Holdings Limited,Liu Hua,Marketing Director,+86-1362510319,Cultural Media,Cooperated for 3 Years,Paused
+C043,"Poly Property Group Co., Ltd.",Zhao Lei Hua,Project Manager,+86-1331640206,Cultural Media,Cooperated for 3 Years,Paused
+C044,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Zhou Lei Ting,Project Manager,+86-1337097032,Cultural Media,Cooperated for 3 Years,Active
+C045,"China Resources Land (Ningbo) Co., Ltd.",Li Ming,General Manager,+86-1373461914,Cultural Media,New Client,Failed Cooperation
+C046,"Ningbo United Group Co., Ltd.",Huang Min Ting,Project Manager,+86-1355051634,Cultural Media,Cooperated for 3 Years,Paused
+C047,"Zhejiang Poly Real Estate Co., Ltd.",Wu Min Wei,General Manager,+86-1343999962,Real Estate Development,New Client,Failed Cooperation
+C048,"Yinyi Group Co., Ltd.",Wu Lei Ting,General Manager,+86-1333612217,Cultural Media,New Client,Potential Opportunity
+C049,"Ningbo Intime Investment Co., Ltd.",Wu Xia Hua,Project Manager,+86-1392948493,Cultural Media,Cooperated for 3 Years,Active
+C050,C&D Real Estate Corporation Limited,Li Jie,Marketing Director,+86-1343759189,Cultural Media,New Client,Paused
+C051,Greentown China Holdings Limited,Liu Hua,Marketing Director,+86-1373500707,Real Estate Development,New Client,Failed Cooperation
+C052,Ronshine China Holdings Limited,Sun Xia Ting,Project Manager,+86-1364115453,Real Estate Development,New Client,Failed Cooperation
+C053,"Poly Property Group Co., Ltd.",Zhou Min Ting,Marketing Director,+86-1307049212,Real Estate Development,Cooperated for 1 Year,Failed Cooperation
+C054,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Huang Min Wei,Marketing Director,+86-1370353873,Real Estate Development,Cooperated for 1 Year,Paused
+C055,"China Resources Land (Ningbo) Co., Ltd.",Sun Lei Ting,General Manager,+86-1309050666,Cultural Media,Cooperated for 3 Years,Active
+C056,"Ningbo United Group Co., Ltd.",Huang Xia Hua,Marketing Director,+86-1352672576,Real Estate Development,New Client,Paused
+C057,"Zhejiang Poly Real Estate Co., Ltd.",Chen Hua,Marketing Director,+86-1381458398,Real Estate Development,Cooperated for 2 Years,Paused
+C058,"Yinyi Group Co., Ltd.",Sun Xia Hua,Project Manager,+86-1388290358,Cultural Media,Cooperated for 2 Years,Paused
+C059,"Ningbo Intime Investment Co., Ltd.",Liu Ming,Project Manager,+86-1376869857,Cultural Media,New Client,Active
+C060,C&D Real Estate Corporation Limited,Chen Hua,General Manager,+86-1333617318,Cultural Media,Cooperated for 1 Year,Potential Opportunity
+C061,Greentown China Holdings Limited,Zhou Xia Wei,General Manager,+86-1395126747,Real Estate Development,Cooperated for 2 Years,Paused
+C062,Ronshine China Holdings Limited,Sun Lei Ting,General Manager,+86-1334373803,Real Estate Development,Cooperated for 1 Year,Potential Opportunity
+C063,"Poly Property Group Co., Ltd.",Sun Min Ting,Marketing Director,+86-1304650305,Real Estate Development,Cooperated for 3 Years,Potential Opportunity
+C064,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Liu Wei,Project Manager,+86-1370648185,Real Estate Development,New Client,Paused
+C065,"China Resources Land (Ningbo) Co., Ltd.",Huang Min Wei,General Manager,+86-1325488027,Real Estate Development,Cooperated for 1 Year,Paused
+C066,"Ningbo United Group Co., Ltd.",Wu Lei Ting,Project Manager,+86-1382348642,Cultural Media,Cooperated for 2 Years,Failed Cooperation
+C067,"Zhejiang Poly Real Estate Co., Ltd.",Zhang Jie,Project Manager,+86-1306413696,Cultural Media,Cooperated for 2 Years,Active
+C068,"Yinyi Group Co., Ltd.",Wang Hua,Project Manager,+86-1359303831,Real Estate Development,Cooperated for 2 Years,Paused
+C069,"Ningbo Intime Investment Co., Ltd.",Chen Jie,Marketing Director,+86-1302991912,Real Estate Development,Cooperated for 1 Year,Failed Cooperation
+C070,C&D Real Estate Corporation Limited,Zhou Lei Wei,General Manager,+86-1337509210,Cultural Media,Cooperated for 1 Year,Potential Opportunity
+C071,Greentown China Holdings Limited,Zhou Min Wei,Project Manager,+86-1376224852,Cultural Media,Cooperated for 2 Years,Active
+C072,Ronshine China Holdings Limited,Wu Xia Wei,Project Manager,+86-1359522474,Real Estate Development,Cooperated for 1 Year,Potential Opportunity
+C073,"Poly Property Group Co., Ltd.",Zhang Ming,Marketing Director,+86-1309478865,Cultural Media,Cooperated for 1 Year,Potential Opportunity
+C074,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Liu Ming,Marketing Director,+86-1300348543,Real Estate Development,Cooperated for 3 Years,Active
+C075,"China Resources Land (Ningbo) Co., Ltd.",Huang Xia Wei,Project Manager,+86-1318614506,Real Estate Development,New Client,Paused
+C076,"Ningbo United Group Co., Ltd.",Liu Jie,Project Manager,+86-1355959399,Real Estate Development,New Client,Potential Opportunity
+C077,"Zhejiang Poly Real Estate Co., Ltd.",Chen Hua,Marketing Director,+86-1300730257,Real Estate Development,Cooperated for 2 Years,Paused
+C078,"Yinyi Group Co., Ltd.",Li Hua,Project Manager,+86-1300898569,Real Estate Development,Cooperated for 2 Years,Potential Opportunity
+C079,"Ningbo Intime Investment Co., Ltd.",Chen Jie,Marketing Director,+86-1354724511,Cultural Media,Cooperated for 2 Years,Potential Opportunity
+C080,C&D Real Estate Corporation Limited,Huang Lei Wei,Marketing Director,+86-1336223471,Cultural Media,Cooperated for 1 Year,Potential Opportunity
+C081,Greentown China Holdings Limited,Wu Lei Wei,Project Manager,+86-1377302908,Cultural Media,Cooperated for 2 Years,Potential Opportunity
+C082,Ronshine China Holdings Limited,Wu Lei Wei,General Manager,+86-1385536151,Cultural Media,New Client,Active
+C083,"Poly Property Group Co., Ltd.",Li Wei,Marketing Director,+86-1363961855,Real Estate Development,Cooperated for 3 Years,Active
+C084,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Liu Ming,General Manager,+86-1341262899,Real Estate Development,Cooperated for 3 Years,Active
+C085,"China Resources Land (Ningbo) Co., Ltd.",Zhao Min Wei,Project Manager,+86-1359564912,Real Estate Development,New Client,Paused
+C086,"Ningbo United Group Co., Ltd.",Liu Hua,General Manager,+86-1328963343,Cultural Media,New Client,Potential Opportunity
+C087,"Zhejiang Poly Real Estate Co., Ltd.",Chen Wei,Marketing Director,+86-1380345630,Real Estate Development,New Client,Potential Opportunity
+C088,"Yinyi Group Co., Ltd.",Li Jie,Project Manager,+86-1370940329,Real Estate Development,Cooperated for 2 Years,Potential Opportunity
+C089,"Ningbo Intime Investment Co., Ltd.",Zhang Jie,General Manager,+86-1312742151,Real Estate Development,Cooperated for 2 Years,Paused
+C090,C&D Real Estate Corporation Limited,Huang Xia Wei,Project Manager,+86-1300030868,Cultural Media,Cooperated for 3 Years,Active
+C091,Greentown China Holdings Limited,Sun Min Wei,General Manager,+86-1385483944,Cultural Media,Cooperated for 2 Years,Potential Opportunity
+C092,Ronshine China Holdings Limited,Liu Ming,General Manager,+86-1369755009,Real Estate Development,Cooperated for 2 Years,Failed Cooperation
+C093,"Poly Property Group Co., Ltd.",Huang Lei Ting,Marketing Director,+86-1375707239,Cultural Media,Cooperated for 3 Years,Active
+C094,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Wu Xia Hua,Marketing Director,+86-1301571318,Cultural Media,New Client,Active
+C095,"China Resources Land (Ningbo) Co., Ltd.",Liu Wei,Marketing Director,+86-1359567716,Real Estate Development,New Client,Failed Cooperation
+C096,"Ningbo United Group Co., Ltd.",Sun Min Wei,General Manager,+86-1330876201,Real Estate Development,Cooperated for 1 Year,Potential Opportunity
+C097,"Zhejiang Poly Real Estate Co., Ltd.",Liu Jie,General Manager,+86-1331279360,Real Estate Development,New Client,Active
+C098,"Yinyi Group Co., Ltd.",Chen Jie,General Manager,+86-1370331071,Cultural Media,Cooperated for 1 Year,Potential Opportunity
+C099,"Ningbo Intime Investment Co., Ltd.",Li Hua,General Manager,+86-1397125528,Real Estate Development,Cooperated for 2 Years,Paused
+C100,C&D Real Estate Corporation Limited,Zhang Jie,Project Manager,+86-1390953416,Cultural Media,Cooperated for 1 Year,Paused
+C101,Greentown China Holdings Limited,Wang Hua,Project Manager,+86-1322277747,Cultural Media,Cooperated for 1 Year,Paused
+C102,Ronshine China Holdings Limited,Zhou Lei Wei,Marketing Director,+86-1393058370,Real Estate Development,Cooperated for 1 Year,Active
+C103,"Poly Property Group Co., Ltd.",Zhang Jie,Marketing Director,+86-1311872207,Cultural Media,Cooperated for 2 Years,Potential Opportunity
+C104,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Zhao Min Ting,General Manager,+86-1367350893,Real Estate Development,New Client,Paused
+C105,"China Resources Land (Ningbo) Co., Ltd.",Wang Wei,Marketing Director,+86-1369954305,Real Estate Development,Cooperated for 2 Years,Active
+C106,"Ningbo United Group Co., Ltd.",Huang Min Ting,General Manager,+86-1312681037,Real Estate Development,Cooperated for 2 Years,Potential Opportunity
+C107,"Zhejiang Poly Real Estate Co., Ltd.",Zhang Wei,Project Manager,+86-1346971502,Real Estate Development,Cooperated for 1 Year,Potential Opportunity
+C108,"Yinyi Group Co., Ltd.",Zhou Xia Ting,Marketing Director,+86-1388022597,Cultural Media,New Client,Paused
+C109,"Ningbo Intime Investment Co., Ltd.",Wang Ming,Marketing Director,+86-1347405504,Real Estate Development,New Client,Active
+C110,C&D Real Estate Corporation Limited,Zhou Xia Wei,Marketing Director,+86-1333940495,Cultural Media,Cooperated for 1 Year,Paused
+C111,Greentown China Holdings Limited,Huang Lei Ting,Project Manager,+86-1312631487,Real Estate Development,Cooperated for 3 Years,Potential Opportunity
+C112,Ronshine China Holdings Limited,Huang Min Hua,Project Manager,+86-1376893287,Real Estate Development,Cooperated for 1 Year,Failed Cooperation
+C113,"Poly Property Group Co., Ltd.",Zhang Jie,General Manager,+86-1325691794,Real Estate Development,Cooperated for 1 Year,Active
+C114,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Chen Hua,Marketing Director,+86-1398383894,Cultural Media,Cooperated for 1 Year,Active
+C115,"China Resources Land (Ningbo) Co., Ltd.",Zhou Xia Hua,Project Manager,+86-1376942545,Cultural Media,New Client,Active
+C116,"Ningbo United Group Co., Ltd.",Sun Lei Hua,Project Manager,+86-1338650069,Real Estate Development,Cooperated for 2 Years,Active
+C117,"Zhejiang Poly Real Estate Co., Ltd.",Wu Lei Ting,General Manager,+86-1389537994,Real Estate Development,Cooperated for 2 Years,Paused
+C118,"Yinyi Group Co., Ltd.",Wang Hua,Project Manager,+86-1391112337,Real Estate Development,Cooperated for 3 Years,Failed Cooperation
+C119,"Ningbo Intime Investment Co., Ltd.",Chen Ming,General Manager,+86-1335260067,Cultural Media,New Client,Potential Opportunity
+C120,C&D Real Estate Corporation Limited,Zhou Xia Hua,Project Manager,+86-1312138314,Cultural Media,New Client,Potential Opportunity
+C121,Greentown China Holdings Limited,Chen Hua,Project Manager,+86-1309409794,Cultural Media,Cooperated for 2 Years,Paused
+C122,Ronshine China Holdings Limited,Wang Wei,General Manager,+86-1371993655,Cultural Media,Cooperated for 1 Year,Failed Cooperation
+C123,"Poly Property Group Co., Ltd.",Zhao Min Ting,Project Manager,+86-1316761924,Cultural Media,Cooperated for 2 Years,Failed Cooperation
+C124,"Ningbo Jiangshan Wanli Real Estate Co., Ltd.",Chen Ming,Project Manager,+86-1313666573,Cultural Media,Cooperated for 3 Years,Failed Cooperation
+C125,"China Resources Land (Ningbo) Co., Ltd.",Liu Ming,Project Manager,+86-1388142703,Cultural Media,Cooperated for 3 Years,Potential Opportunity
+C126,"Ningbo United Group Co., Ltd.",Li Ming,Project Manager,+86-1347428261,Cultural Media,Cooperated for 1 Year,Paused
+C127,"Zhejiang Poly Real Estate Co., Ltd.",Huang Min Hua,Marketing Director,+86-1352555115,Cultural Media,Cooperated for 3 Years,Potential Opportunity
+C128,"Yinyi Group Co., Ltd.",Li Wei,Project Manager,+86-1387930929,Cultural Media,Cooperated for 3 Years,Failed Cooperation
+C129,"Ningbo Intime Investment Co., Ltd.",Li Ming,General Manager,+86-1349922856,Real Estate Development,Cooperated for 2 Years,Potential Opportunity
+C130,C&D Real Estate Corporation Limited,Li Jie,Project Manager,+86-1380886722,Cultural Media,Cooperated for 2 Years,Paused

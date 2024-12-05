@@ -1,0 +1,131 @@
+﻿Project ID,Expense Type,Supplier,Amount,Expense Date,Variance Reason
+P001,Material Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",34916,2012/12/07,Over budget
+P002,Design Fees,"Ningbo Mitai Advertising Co., Ltd",11112,2022/10/16,Supplier delay
+P003,Material Costs,"Ningbo Shengao Advertising Co., Ltd",11517,2016/02/27,Supplier delay
+P004,Material Costs,"Ningbo Shengao Advertising Co., Ltd",43137,2021/02/28,Supplier delay
+P005,Equipment Rental,"Ningbo Chuanli Space Art Engineering Co., Ltd",34655,2013/08/10,Supplier delay
+P006,Equipment Rental,"Ningbo Mitai Advertising Co., Ltd",33222,2024/04/08,Material cost increase
+P007,Advertising Costs,"Ningbo Mitai Advertising Co., Ltd",10304,2017/06/28,Over budget
+P008,Advertising Costs,"Ningbo Weizhen Advertising Co., Ltd",39119,2012/02/09,Material cost increase
+P009,Labor Costs,"Ningbo Haotai Advertising Design Co., Ltd",36088,2011/05/01,Supplier delay
+P010,Design Fees,"Ningbo Weizhen Advertising Co., Ltd",41822,2023/08/11,Supplier delay
+P011,Material Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",45271,2007/05/09,Material cost increase
+P012,Labor Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",33820,2013/05/01,Material cost increase
+P013,Advertising Costs,"Ningbo Weizhen Advertising Co., Ltd",34662,2021/07/15,Supplier delay
+P014,Advertising Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",20881,2022/01/16,Supplier delay
+P015,Advertising Costs,"Ningbo Shengao Advertising Co., Ltd",16339,2009/11/11,Over budget
+P016,Advertising Costs,"Ningbo Haotai Advertising Design Co., Ltd",22442,2012/11/25,Material cost increase
+P017,Material Costs,"Ningbo Mitai Advertising Co., Ltd",30881,2008/05/17,Over budget
+P018,Equipment Rental,"Ningbo Haotai Advertising Design Co., Ltd",28422,2021/03/24,Supplier delay
+P019,Labor Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",47268,2008/11/07,Supplier delay
+P020,Design Fees,"Ningbo Weizhen Advertising Co., Ltd",18115,2014/01/15,Material cost increase
+P021,Labor Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",12757,2007/05/24,Supplier delay
+P022,Labor Costs,"Ningbo Shengao Advertising Co., Ltd",7078,2015/06/23,Supplier delay
+P023,Material Costs,"Ningbo Mitai Advertising Co., Ltd",15549,2009/01/21,Supplier delay
+P024,Equipment Rental,"Ningbo Mitai Advertising Co., Ltd",38165,2014/05/13,Material cost increase
+P025,Labor Costs,"Ningbo Haotai Advertising Design Co., Ltd",5497,2022/12/03,Over budget
+P026,Material Costs,"Ningbo Haotai Advertising Design Co., Ltd",15506,2014/05/26,Supplier delay
+P027,Design Fees,"Ningbo Mitai Advertising Co., Ltd",38406,2018/12/26,Material cost increase
+P028,Design Fees,"Ningbo Haotai Advertising Design Co., Ltd",39237,2012/10/04,Supplier delay
+P029,Labor Costs,"Ningbo Weizhen Advertising Co., Ltd",5156,2022/05/10,Supplier delay
+P030,Material Costs,"Ningbo Shengao Advertising Co., Ltd",42224,2011/09/16,Over budget
+P031,Material Costs,"Ningbo Shengao Advertising Co., Ltd",40927,2024/09/12,Material cost increase
+P032,Material Costs,"Ningbo Shengao Advertising Co., Ltd",32153,2024/07/07,Over budget
+P033,Design Fees,"Ningbo Weizhen Advertising Co., Ltd",19097,2017/05/04,Over budget
+P034,Design Fees,"Ningbo Chuanli Space Art Engineering Co., Ltd",36041,2009/08/12,Material cost increase
+P035,Design Fees,"Ningbo Weizhen Advertising Co., Ltd",29051,2017/09/05,Over budget
+P036,Material Costs,"Ningbo Haotai Advertising Design Co., Ltd",29300,2010/02/12,Over budget
+P037,Labor Costs,"Ningbo Weizhen Advertising Co., Ltd",10133,2017/08/11,Supplier delay
+P038,Design Fees,"Ningbo Chuanli Space Art Engineering Co., Ltd",13960,2024/05/06,Material cost increase
+P039,Design Fees,"Ningbo Chuanli Space Art Engineering Co., Ltd",43428,2011/06/11,Material cost increase
+P040,Material Costs,"Ningbo Shengao Advertising Co., Ltd",23756,2019/02/08,Over budget
+P041,Design Fees,"Ningbo Chuanli Space Art Engineering Co., Ltd",37850,2018/12/15,Supplier delay
+P042,Material Costs,"Ningbo Shengao Advertising Co., Ltd",36471,2013/11/07,Over budget
+P043,Labor Costs,"Ningbo Weizhen Advertising Co., Ltd",12081,2014/02/13,Supplier delay
+P044,Design Fees,"Ningbo Haotai Advertising Design Co., Ltd",32652,2015/07/09,Material cost increase
+P045,Advertising Costs,"Ningbo Mitai Advertising Co., Ltd",34666,2019/10/16,Supplier delay
+P046,Equipment Rental,"Ningbo Chuanli Space Art Engineering Co., Ltd",47326,2018/11/02,Material cost increase
+P047,Design Fees,"Ningbo Chuanli Space Art Engineering Co., Ltd",13558,2024/09/15,Material cost increase
+P048,Labor Costs,"Ningbo Haotai Advertising Design Co., Ltd",30084,2020/07/12,Material cost increase
+P049,Design Fees,"Ningbo Shengao Advertising Co., Ltd",27629,2018/02/07,Over budget
+P050,Equipment Rental,"Ningbo Haotai Advertising Design Co., Ltd",46292,2009/10/24,Material cost increase
+P051,Design Fees,"Ningbo Mitai Advertising Co., Ltd",30145,2023/12/14,Material cost increase
+P052,Design Fees,"Ningbo Weizhen Advertising Co., Ltd",31149,2011/07/27,Over budget
+P053,Advertising Costs,"Ningbo Haotai Advertising Design Co., Ltd",19327,2010/10/06,Supplier delay
+P054,Equipment Rental,"Ningbo Weizhen Advertising Co., Ltd",25405,2017/03/08,Supplier delay
+P055,Material Costs,"Ningbo Weizhen Advertising Co., Ltd",8345,2007/06/22,Material cost increase
+P056,Equipment Rental,"Ningbo Mitai Advertising Co., Ltd",23883,2012/11/17,Over budget
+P057,Material Costs,"Ningbo Shengao Advertising Co., Ltd",22761,2008/12/27,Supplier delay
+P058,Equipment Rental,"Ningbo Shengao Advertising Co., Ltd",35078,2011/07/20,Material cost increase
+P059,Advertising Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",35664,2014/05/22,Material cost increase
+P060,Design Fees,"Ningbo Chuanli Space Art Engineering Co., Ltd",22747,2012/01/11,Over budget
+P061,Material Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",26311,2010/05/09,Material cost increase
+P062,Equipment Rental,"Ningbo Mitai Advertising Co., Ltd",41800,2013/11/03,Over budget
+P063,Equipment Rental,"Ningbo Mitai Advertising Co., Ltd",26254,2017/07/03,Over budget
+P064,Equipment Rental,"Ningbo Weizhen Advertising Co., Ltd",35524,2014/09/12,Over budget
+P065,Equipment Rental,"Ningbo Chuanli Space Art Engineering Co., Ltd",15631,2024/05/05,Material cost increase
+P066,Labor Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",12245,2009/12/02,Material cost increase
+P067,Equipment Rental,"Ningbo Haotai Advertising Design Co., Ltd",31482,2022/08/27,Supplier delay
+P068,Advertising Costs,"Ningbo Shengao Advertising Co., Ltd",42874,2007/06/26,Material cost increase
+P069,Advertising Costs,"Ningbo Shengao Advertising Co., Ltd",27860,2023/08/26,Material cost increase
+P070,Design Fees,"Ningbo Haotai Advertising Design Co., Ltd",23529,2020/06/07,Material cost increase
+P071,Equipment Rental,"Ningbo Mitai Advertising Co., Ltd",27813,2009/08/23,Material cost increase
+P072,Design Fees,"Ningbo Mitai Advertising Co., Ltd",14980,2010/08/27,Material cost increase
+P073,Design Fees,"Ningbo Haotai Advertising Design Co., Ltd",13919,2007/04/10,Over budget
+P074,Advertising Costs,"Ningbo Weizhen Advertising Co., Ltd",46398,2015/09/04,Material cost increase
+P075,Labor Costs,"Ningbo Mitai Advertising Co., Ltd",13756,2007/03/01,Material cost increase
+P076,Design Fees,"Ningbo Shengao Advertising Co., Ltd",31955,2012/09/05,Supplier delay
+P077,Labor Costs,"Ningbo Shengao Advertising Co., Ltd",16228,2011/07/18,Material cost increase
+P078,Material Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",15436,2012/07/11,Supplier delay
+P079,Design Fees,"Ningbo Shengao Advertising Co., Ltd",26748,2021/06/23,Material cost increase
+P080,Labor Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",10934,2012/09/14,Supplier delay
+P081,Advertising Costs,"Ningbo Shengao Advertising Co., Ltd",21731,2023/12/22,Material cost increase
+P082,Design Fees,"Ningbo Shengao Advertising Co., Ltd",25458,2019/07/23,Supplier delay
+P083,Advertising Costs,"Ningbo Shengao Advertising Co., Ltd",10897,2015/10/05,Material cost increase
+P084,Design Fees,"Ningbo Mitai Advertising Co., Ltd",21049,2013/02/19,Over budget
+P085,Design Fees,"Ningbo Mitai Advertising Co., Ltd",9701,2008/12/26,Supplier delay
+P086,Advertising Costs,"Ningbo Haotai Advertising Design Co., Ltd",40614,2008/06/26,Over budget
+P087,Design Fees,"Ningbo Chuanli Space Art Engineering Co., Ltd",29591,2022/04/17,Supplier delay
+P088,Material Costs,"Ningbo Mitai Advertising Co., Ltd",25095,2017/01/10,Material cost increase
+P089,Design Fees,"Ningbo Chuanli Space Art Engineering Co., Ltd",30822,2022/10/17,Material cost increase
+P090,Material Costs,"Ningbo Shengao Advertising Co., Ltd",49146,2012/04/17,Material cost increase
+P091,Equipment Rental,"Ningbo Shengao Advertising Co., Ltd",47107,2021/01/24,Material cost increase
+P092,Design Fees,"Ningbo Weizhen Advertising Co., Ltd",28648,2020/08/15,Over budget
+P093,Material Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",8969,2012/11/16,Over budget
+P094,Design Fees,"Ningbo Shengao Advertising Co., Ltd",44196,2014/01/13,Supplier delay
+P095,Labor Costs,"Ningbo Haotai Advertising Design Co., Ltd",40404,2010/09/26,Supplier delay
+P096,Labor Costs,"Ningbo Haotai Advertising Design Co., Ltd",21758,2016/11/06,Supplier delay
+P097,Material Costs,"Ningbo Mitai Advertising Co., Ltd",29930,2014/04/13,Supplier delay
+P098,Design Fees,"Ningbo Mitai Advertising Co., Ltd",29576,2024/08/05,Supplier delay
+P099,Design Fees,"Ningbo Chuanli Space Art Engineering Co., Ltd",12935,2008/04/16,Supplier delay
+P100,Material Costs,"Ningbo Mitai Advertising Co., Ltd",47724,2011/12/03,Supplier delay
+P101,Labor Costs,"Ningbo Mitai Advertising Co., Ltd",13508,2016/07/07,Material cost increase
+P102,Equipment Rental,"Ningbo Weizhen Advertising Co., Ltd",27989,2010/08/13,Material cost increase
+P103,Equipment Rental,"Ningbo Haotai Advertising Design Co., Ltd",8832,2019/10/07,Over budget
+P104,Design Fees,"Ningbo Haotai Advertising Design Co., Ltd",15963,2017/07/15,Supplier delay
+P105,Advertising Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",38823,2019/01/07,Material cost increase
+P106,Advertising Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",24434,2015/06/19,Supplier delay
+P107,Labor Costs,"Ningbo Weizhen Advertising Co., Ltd",42894,2021/07/14,Material cost increase
+P108,Advertising Costs,"Ningbo Mitai Advertising Co., Ltd",44470,2023/09/18,Supplier delay
+P109,Material Costs,"Ningbo Weizhen Advertising Co., Ltd",15219,2011/01/14,Supplier delay
+P110,Advertising Costs,"Ningbo Haotai Advertising Design Co., Ltd",26786,2013/01/20,Material cost increase
+P111,Material Costs,"Ningbo Haotai Advertising Design Co., Ltd",8234,2023/08/16,Material cost increase
+P112,Equipment Rental,"Ningbo Weizhen Advertising Co., Ltd",47466,2024/11/16,Supplier delay
+P113,Design Fees,"Ningbo Mitai Advertising Co., Ltd",40996,2012/05/09,Material cost increase
+P114,Labor Costs,"Ningbo Shengao Advertising Co., Ltd",17767,2009/07/25,Supplier delay
+P115,Labor Costs,"Ningbo Weizhen Advertising Co., Ltd",14965,2022/05/09,Over budget
+P116,Design Fees,"Ningbo Haotai Advertising Design Co., Ltd",25289,2014/11/09,Material cost increase
+P117,Design Fees,"Ningbo Chuanli Space Art Engineering Co., Ltd",32128,2017/09/18,Material cost increase
+P118,Equipment Rental,"Ningbo Weizhen Advertising Co., Ltd",12060,2020/09/22,Over budget
+P119,Material Costs,"Ningbo Shengao Advertising Co., Ltd",49742,2016/11/26,Material cost increase
+P120,Advertising Costs,"Ningbo Haotai Advertising Design Co., Ltd",14275,2006/05/22,Over budget
+P121,Equipment Rental,"Ningbo Weizhen Advertising Co., Ltd",8195,2016/10/14,Material cost increase
+P122,Advertising Costs,"Ningbo Haotai Advertising Design Co., Ltd",43708,2024/06/06,Material cost increase
+P123,Equipment Rental,"Ningbo Mitai Advertising Co., Ltd",44692,2017/02/16,Material cost increase
+P124,Design Fees,"Ningbo Shengao Advertising Co., Ltd",24329,2023/03/02,Material cost increase
+P125,Equipment Rental,"Ningbo Shengao Advertising Co., Ltd",32628,2007/10/28,Over budget
+P126,Design Fees,"Ningbo Chuanli Space Art Engineering Co., Ltd",43119,2016/10/24,Over budget
+P127,Material Costs,"Ningbo Shengao Advertising Co., Ltd",42938,2017/01/06,Material cost increase
+P128,Equipment Rental,"Ningbo Shengao Advertising Co., Ltd",20506,2023/04/05,Supplier delay
+P129,Advertising Costs,"Ningbo Chuanli Space Art Engineering Co., Ltd",20362,2010/08/20,Material cost increase
+P130,Advertising Costs,"Ningbo Weizhen Advertising Co., Ltd",13453,2016/09/17,Supplier delay
